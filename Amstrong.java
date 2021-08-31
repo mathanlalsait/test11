@@ -1,4 +1,4 @@
-class Armstrong111
+class Armstrong2222
 {
  public static void main(String[] args)
  {
